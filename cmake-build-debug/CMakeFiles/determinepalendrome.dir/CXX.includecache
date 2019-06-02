@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sammyrobens-paradise/CLionProjects/determinepalendrome/main.cpp
+iostream
+-
+istream
+-
+strstream
+-
+cmath
+-
+math.h
+-
+cstdlib
+-
+vector
+-
+string
+-
+sstream
+-
+
